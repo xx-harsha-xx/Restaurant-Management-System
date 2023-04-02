@@ -1,0 +1,8 @@
+101 Lollipop 150 n
+102 Lollipop(Gravy) 160 n
+103 French Fries 100 v
+104 Veg Crispy 120 v
+201 Veg Fried Rice 150 1
+301 Ice-Cream 60 
+401 Water 20 1000
+402 Coca-Cola 30 300

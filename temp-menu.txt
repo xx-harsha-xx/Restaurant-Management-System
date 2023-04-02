@@ -1,0 +1,4 @@
+101 Lollipop 150 n
+102 Lollipop(Gravy) 160 n
+103 French Fries 100 v
+104 Veg Crispy 120 v
